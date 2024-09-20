@@ -1,0 +1,13 @@
+
+input{
+  width: 100%;
+}
+.item-container{
+  text-align: left; 
+}
+.n-row{
+  margin: 10px 5px;
+}
+.n-button{
+  min-width: 50px;
+}
